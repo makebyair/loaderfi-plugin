@@ -1,3 +1,5 @@
-chrome.browserAction.onClicked.addListener(function() {
-  chrome.tabs.create({ url: "content.html" });
+chrome.browserAction.onClicked.addListener(function (tab) {
+  chrome.tabs.executeScript(tab.id, {
+    file: "content.js"
+  });
 });
