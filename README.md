@@ -1,8 +1,8 @@
 # LoaderFi Plugin
 
 Kevin White, Make By Air™ Research 
-Contact: [k.white@makebyair.com](mailto:k.white@makebyair.com)
-Department: [research@makebyair.com](mailto:research@makebyair.com)
+<br />Contact: [k.white@makebyair.com](mailto:k.white@makebyair.com)
+<br />Department: [research@makebyair.com](mailto:research@makebyair.com)
 
 **Open Source Licensing:**
 
