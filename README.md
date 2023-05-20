@@ -4,7 +4,7 @@ Kevin White, Make By Air™ Research
 <br />Contact: [k.white@makebyair.com](mailto:k.white@makebyair.com)
 <br />Department: [research@makebyair.com](mailto:research@makebyair.com)
 
-**Open Source Licensing:**
+**Open Source Licensing (MIT):**
 
 - LoaderFi Plugin for ChatGPT
 - LoaderFi Google Chrome Extension
