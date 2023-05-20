@@ -1,4 +1,12 @@
-// loaderfi-plugin.js
+// loaderfi-plugin.js 
+
+// To use: 
+// (1) Install the LoaderFi Google Chrome Extension
+// OR
+// (2) Open ChatGpt, then copy and paste this code into the console area of: "Page Inspect" > Console.
+// Conversely you can access the console by right-clicking the page or pressing f12 [PC] or, fn + f12 [Mac].
+
+// Code to copy below:
 
 const submitFileButton = document.createElement('button');
 submitFileButton.style.backgroundColor = 'green';
